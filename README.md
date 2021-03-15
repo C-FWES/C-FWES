@@ -2,6 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=C-FWES)
 
+Competetive Programming:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/C-FWES/CCC-Solutions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/C-FWES/HackerRank-Solutions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/C-FWES/Leetcode-Solutions)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
