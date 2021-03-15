@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=C-FWES)
 
-Competetive Programming:
+## Competetive Programming
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=CCC-Solutions)](https://github.com/anuraghazra/github-readme-stats)
 
 
