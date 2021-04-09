@@ -20,7 +20,7 @@
 ## Fun Stuff
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=Benfords-Law)](https://github.com/C-FWES/Benfords-Law)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=BenfordsLaw)](https://github.com/C-FWES/BenfordsLaw)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
