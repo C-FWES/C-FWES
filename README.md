@@ -1,4 +1,4 @@
-### Hi/Salut/Servus
+### Hi
 
 ![](https://komarev.com/ghpvc/?username=C-FWES)
 
