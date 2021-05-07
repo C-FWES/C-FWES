@@ -14,6 +14,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=Leetcode-Solutions)](https://github.com/C-FWES/Leetcode-Solutions)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=dmoj)](https://github.com/C-FWES/dmoj)
+
+
 ## Flight Simulation
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=A300-600)](https://github.com/C-FWES/A300-600)
