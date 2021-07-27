@@ -17,12 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=dmoj)](https://github.com/C-FWES/dmoj)
 
 
-## Flight Simulation
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=A300-600)](https://github.com/C-FWES/A300-600)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=SR22T)](https://github.com/C-FWES/SR22T)
-
 ## Fun Stuff
 
 
