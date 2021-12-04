@@ -1,4 +1,5 @@
 ### Hi
+If you havn't figured out yet, my name is Wesley Ou, and I'm a tenth grade pre-IB student at St. Francis Xavier Secondary School. 
 
 ![](https://komarev.com/ghpvc/?username=C-FWES)
 
