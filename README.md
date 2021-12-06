@@ -3,6 +3,12 @@ If you havn't figured out yet, my name is Wesley Ou, and I'm a tenth grade pre-I
 
 ![](https://komarev.com/ghpvc/?username=C-FWES)
 
+## Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Competitive Programming
 
 
@@ -32,9 +38,6 @@ If you havn't figured out yet, my name is Wesley Ou, and I'm a tenth grade pre-I
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=ConvexHull)](https://github.com/C-FWES/ConvexHull)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **C-FWES/C-FWES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
