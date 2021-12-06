@@ -5,8 +5,8 @@ If you havn't figured out yet, my name is Wesley Ou, and I'm a tenth grade pre-I
 
 ## Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-FWES&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Competitive Programming
