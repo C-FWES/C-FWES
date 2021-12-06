@@ -3,7 +3,7 @@ If you havn't figured out yet, my name is Wesley Ou, and I'm a tenth grade pre-I
 
 ![](https://komarev.com/ghpvc/?username=C-FWES)
 
-## Competetive Programming
+## Competitive Programming
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=CCC-Solutions)](https://github.com/C-FWES/CCC-Solutions)
