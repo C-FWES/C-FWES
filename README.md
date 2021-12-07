@@ -38,6 +38,9 @@ If you havn't figured out yet, my name is Wesley Ou, and I'm a tenth grade pre-I
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=ConvexHull)](https://github.com/C-FWES/ConvexHull)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=OneHotEncoding)](https://github.com/C-FWES/OneHotEncoding)
+
 <!--
 **C-FWES/C-FWES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
