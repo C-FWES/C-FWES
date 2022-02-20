@@ -30,7 +30,7 @@ I'm a tenth grade pre-IB student at St. Francis Xavier Secondary School.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=BenfordsLaw)](https://github.com/C-FWES/BenfordsLaw)
 
 
-[!Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=twin-prime-conjecture)](https://github.com/C-FWES/twin-prime-conjecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=twin-prime-conjecture)](https://github.com/C-FWES/twin-prime-conjecture)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=AutoCompleteNLP)](https://github.com/C-FWES/AutoCompleteNLP)
