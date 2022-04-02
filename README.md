@@ -26,6 +26,11 @@ I'm a tenth grade pre-IB student at St. Francis Xavier Secondary School.
 
 ## Algorithms Et Cetera
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=LinearRegression)](https://github.com/C-FWES/LinearRegression)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=PrisonersDillema)](https://github.com/C-FWES/PrisonersDillema)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C-FWES&repo=BenfordsLaw)](https://github.com/C-FWES/BenfordsLaw)
 
