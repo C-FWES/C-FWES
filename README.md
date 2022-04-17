@@ -5,7 +5,6 @@ I'm a tenth grade pre-IB student at St. Francis Xavier Secondary School.
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-FWES&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-FWES)](https://github.com/anuraghazra/github-readme-stats)
 
 
