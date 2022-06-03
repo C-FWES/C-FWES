@@ -1,7 +1,13 @@
 ### Good day to you!
 -10th grade pre-IB at St. Francis Xavier Secondary School
+
+
 -c++, java, and python
+
+
 -good with web dev, full stack, frontend, or backend 
+
+
 -interested in algorithms, competitive programming, and machine learning
 
 ![](https://komarev.com/ghpvc/?username=C-FWES)
