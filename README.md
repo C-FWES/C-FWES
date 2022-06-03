@@ -2,7 +2,7 @@
 -10th grade pre-IB at St. Francis Xavier Secondary School
 
 
--c++, java, and python
+-c++, java (script) , and python
 
 
 -good with web dev, full stack, frontend, or backend 
