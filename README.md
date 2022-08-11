@@ -8,7 +8,7 @@
 -good with web dev, full stack, frontend, or backend 
 
 
--interested in algorithms, competitive programming, and NLP
+-interested in automation, competitive programming, and NLP
 
 ![](https://komarev.com/ghpvc/?username=C-FWES)
 
