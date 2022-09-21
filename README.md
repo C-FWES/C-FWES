@@ -1,5 +1,5 @@
 ### Good day to you!
--10th grade pre-IB at St. Francis Xavier Secondary School
+-11th grade IB at St. Francis Xavier Secondary School
 
 
 -c++, java (script) , and python
