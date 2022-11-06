@@ -1,4 +1,7 @@
-### Good day to you!
+### Hey! I'm Wesley Ou!
+
+<img src="https://github.com/C-FWES/C-FWES/blob/main/banner1.jpg?raw=true">
+
 -11th grade IB at St. Francis Xavier Secondary School
 
 
